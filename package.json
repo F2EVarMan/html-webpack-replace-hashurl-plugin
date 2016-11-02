@@ -1,0 +1,18 @@
+{
+  "name": "html-webpack-replace-hashurl-plugin",
+  "version": "0.1.0",
+  "description": "webpack plugin replace hash url mutil-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "replace",
+    "hash",
+    "url"
+  ],
+  "author": "varman",
+  "license": "ISC"
+}

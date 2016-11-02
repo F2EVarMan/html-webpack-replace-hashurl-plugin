@@ -15,5 +15,7 @@
   ],
   "author": "varman",
   "license": "ISC",
-  "git":""
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
 }
